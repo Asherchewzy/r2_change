@@ -3,6 +3,6 @@ Often, during the modeling process, you might want to compare different regressi
 
 You want to know which variables significantly change the R2 values so that it significantly explain more variance of the Y. Thus the R2 Change statistics. 
 
-https://lnkd.in/gwhBf6j
+https://asherchew.medium.com/did-i-really-explained-more-significant-r2-change-test-ed172c7c55fd
 
 ![](pics/capture.png)
